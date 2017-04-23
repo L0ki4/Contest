@@ -1,1 +1,1 @@
-Repo contains CD contest task solutions
+Repo contains CS contest task solutions
