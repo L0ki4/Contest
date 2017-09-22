@@ -1,7 +1,7 @@
 #include <unistd.h>
 
 int main() {
-    execlp("/bin /sh", "sh", "-c", "env | grep =*$USER*" , NULL);
+    execlp("/bin/sh", "sh", "-c", "env | grep =*$USER*" , NULL);
     return 0;
 }
 
